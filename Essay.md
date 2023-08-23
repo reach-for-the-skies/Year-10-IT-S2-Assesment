@@ -35,7 +35,7 @@ There are many types of regression however they all follow similar principles. R
 ### Clustering
 Clustering is a type of unsupervised learning which groups similar data points together. This technique can discover trends or patterns in data where labels are not available. A common type of clustering is K-Means Clustering, this method organises the data based on the locations of other data points.
 
-###Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 Natural Language Processing has received a lot of attention recently with large language models such as GPT-4 becoming accessible to more people. NLP can understand, interpret and generate language similar to that of a human. 
 
 ## Training and Evaluation
